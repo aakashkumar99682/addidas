@@ -1,0 +1,670 @@
+body
+{
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+/******************************header-part-open****************************/
+.header
+{
+    background-color: cadetblue;
+}
+.log img
+{
+    width: 150px;
+    height: 50px;
+}
+.men
+{
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 3px;
+    margin-left: 44px;
+    
+}
+.color:hover
+{
+    color: white !important;
+    background-color: black;
+    border-radius: 6px !important;
+}
+.bck
+{
+    top: 56.5px !important;
+    background-color: cadetblue !important; 
+}
+/******************************header-part-close****************************/
+
+
+/******************************banner-part-open****************************/
+
+.banner
+{
+    float: left;
+}
+.shose img
+{
+    height: 600px;
+}
+.arrow01
+{
+   float: left;
+   margin-left: 32px ; 
+}
+.arrow02
+{
+
+   float: right;
+   margin-right: 32px ; 
+}
+/******************************banner-part-close****************************/
+
+/******************************welcome-part-open****************************/
+.left
+{
+
+float: left;
+
+min-height: 350px;
+
+height: auto;
+
+margin: 40px 0px;
+
+width: 90% !important;
+}
+.left h1
+{
+    float: left;
+    font-family: 'SamsungSharpSans',arial,sans-serif;
+    
+}
+.left p
+{
+    float: left;
+    font-family: 'SamsungSharpSans',arial,sans-serif;
+    text-align: justify;
+    padding: 0px  0px 0px 5px;
+    margin: 20px 0px;
+    font-size: 17px;
+    line-height: 35px;
+}
+.button
+{
+    width: 160px ;
+    float: left;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    min-height: 60px;
+    height: auto;
+}
+.button input
+{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(248, 91, 34);
+    border-radius: 10px;
+    font-size: 20px;
+    margin: 0px 5px;
+}
+.right
+{
+    float: left;
+    margin: 60px 0px;
+}
+.right img
+{
+    width: 325px;
+    height: 325px;
+    transition: width 2s, height 2s;
+    margin: 0px 60px;
+}
+.right img:hover
+{
+    width: 375px;
+    height: 375px;
+}
+/******************************welcome-part-close****************************/
+
+/******************************service-part-open****************************/
+
+
+.service
+{
+    margin: 60px 0px;
+    float: left;
+}
+.box
+{   color: black;
+    float: left;
+    margin: 0px 0px;
+}
+.box img
+{
+    width: 100%;
+    height: 315px;
+    margin: 0px 0px;
+    float: left;
+    transition: width 0.25s , height 0.25s;
+    
+}
+.box img:hover
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.box h2
+{
+
+    font-family: 'SamsungSharpSans',arial,sans-serif;
+    margin: 20px 10px;
+    float: left;
+}
+.box p
+{
+    
+    font-family: 'SamsungSharpSans',arial,sans-serif;
+    text-align: justify;
+    padding: 0px  60px 0px 5px;
+    margin: 20px 7px;
+    font-size: 16px;
+    line-height: 29px;
+    float: left;
+}
+
+/******************************service-part-close****************************/
+/******************************use-part-open****************************/
+.useus
+{
+    background-color: rgb(207 248 250);
+    float: left;
+}
+.use
+{
+    float: left;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.use h1
+{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0px 66px 0px;
+}
+.use ins
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: cadetblue;
+}
+.use p
+{    
+    font-family: 'SamsungSharpSans',arial,sans-serif;
+    text-align: justify;
+    padding: 0px  60px 0px 5px;
+    margin: 20px 7px;
+    font-size: 16px;
+    line-height: 45px;
+    float: left;
+
+}
+.use img
+{
+    width: 100%;
+    height: 365px;
+    margin: 20px 7px;
+    
+}
+/******************************use-part-close****************************/
+
+/******************************contact-part-open****************************/
+.contact
+{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    float: left;
+    width: 90% !important;
+}
+.contact h3
+{
+    text-align: center;
+    margin: 50px 0px;
+    font-size: 50px;
+}
+.contact p
+{
+    font-family: 'SamsungSharpSans',arial,sans-serif;
+    padding: 0px  0px 0px 0px;
+    margin: 47px 7px;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+}
+.image01 
+{
+    width: 37%;
+    height: 30px;
+    margin: 0px auto;
+    padding: 58.5px 103px;
+    display: block;
+}
+.contact img
+{
+    width: 30px;
+    height: 30px;
+    padding: 0px 0px;
+    margin: 11px 11px;
+}
+.contact input
+{
+    margin: 22px 0px 64px 100px;
+    padding: 0px 0px;
+    
+}
+.contact span
+{
+    background-color: rgb(4, 126, 126);
+    padding: 0px 0px;
+    border: 3px solid rgb(4, 126, 126);
+    color: white;
+}
+/******************************contact-part-close****************************/
+
+/******************************footer-part-open****************************/
+
+.footer01
+{
+    background-color: chocolate;
+    float: left;
+}
+.footer
+{
+    float: left;
+    margin: 45px 21px;
+}
+.footer h4
+{
+    color: antiquewhite;
+}
+.footer p
+{
+    color: antiquewhite;
+}
+/******************************foooter-part-close****************************/
+
+/******************************foooter02-part-open****************************/
+.footer02
+{
+    background-color: black;
+    float: left;
+}
+.foot
+{
+    float: left;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.foot img
+{
+    float: left;
+    width: 20px;
+    height:20px;
+    margin: 6px 20px;
+}
+.foot p
+{
+    float: left;
+    font-size: 20px;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    color: antiquewhite;
+
+}
+.foot span
+{
+    
+    padding: 0px 0px;
+    font-size: 20px;
+    margin: 0px 0px;
+}
+.foot  ul
+{
+    float: right;
+    margin: 0px 0px ;
+    padding: 0px 0px;
+}
+.foot ul li 
+{
+    float: left;
+    padding: 0px 0px;
+    display: inline;
+    margin: 3px 25px;
+}
+.foot ul li a
+{   
+    float: left;
+}
+.foot ul li a i
+{
+    color: white;
+}
+.slider
+{
+    float: left;
+}
+.ram
+{
+    width: 500px;
+    font-size: 50px;
+    padding: 0px 0px;
+    float: left;
+    color: black;
+}
+.ram p
+{
+    color: black;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    
+}
+
+
+/******************************foooter02-part-close****************************/
+
+
+/******************************mobile-mediaquery-part-open****************************/
+@media only screen and (max-width:505px)
+{
+    /******************************header-part-open****************************/
+
+.ban
+{
+    top: 20px;
+}   
+.header
+{
+    background-color: cadetblue;
+}
+.log img
+{
+    width: 150px;
+    height: 50px;
+}
+.men
+{
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 3px;
+    margin-left: 44px;
+    
+}
+.color:hover
+{
+    color: white !important;
+    background-color: black;
+    border-radius: 6px !important;
+}
+.bck
+{
+    top: 56.5px !important;
+    background-color: cadetblue !important; 
+}
+/******************************header-part-close****************************/
+
+
+/******************************banner-part-open****************************/
+.ban
+{
+    float: left;
+}
+.shose img
+{
+    height: 342px;
+}
+.arrow01
+{
+   float: left;
+   margin-left: 32px ; 
+}
+.arrow02
+{
+
+   float: right;
+   margin-right: 32px ; 
+}
+/******************************banner-part-close****************************/
+
+/******************************welcome-part-open****************************/
+.left
+{
+
+/* float: left; */
+
+width: 90% !important;
+
+min-height: 350px;
+
+height: auto;
+
+margin: 40px 23px;
+}
+.left h1
+{
+    /* float: left; */
+    text-align: center;
+    font-family: 'SamsungSharpSans',arial,sans-serif;
+}
+.left p
+{
+    /* float: left; */
+    font-family: 'SamsungSharpSans',arial,sans-serif;
+    text-align: justify;
+    padding: 0px  0px 0px 0px;
+    margin: 0px 0px;
+    font-size: 17px;
+    line-height: 35px;
+}
+.button
+{
+    width: 33%;
+    float: left;
+    margin: 33px 0px;
+    padding: 0px 0px;
+    min-height: 60px;
+    height: auto;
+}
+.button input
+{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(248, 91, 34);
+    border-radius: 10px;
+    font-size: 20px;
+    margin: 0px 5px;
+}
+.right
+{
+    width: 90% !important;
+    float: right;
+    margin: 59px 0px;
+}
+.right img
+{
+    width: 325px;
+    height: 325px;
+    transition: width 2s, height 2s;
+    margin: 0px 0px;
+}
+.right img:hover
+{
+    width: 375px;
+    height: 375px;
+}
+/******************************welcome-part-close****************************/
+
+/******************************service-part-open****************************/
+
+
+.service
+{
+    width: 90% !important;
+    margin: 8px 47px;
+    float: left;
+}
+.box
+{   color: black;
+    float: left;
+    margin: 0px 0px;
+}
+.box img
+{
+    width: 100%;
+    height: 315px;
+    margin: 0px 0px;
+    float: left;
+    transition: width 0.25s , height 0.25s;
+    
+}
+.box img:hover
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.box h2
+{
+
+    font-family: 'SamsungSharpSans',arial,sans-serif;
+    margin: 20px 10px;
+    float: left;
+}
+.box p
+{
+    
+    font-family: 'SamsungSharpSans',arial,sans-serif;
+    text-align: justify;
+    padding: 0px  60px 0px 5px;
+    margin: 20px 7px;
+    font-size: 16px;
+    line-height: 29px;
+    float: left;
+}
+
+/******************************service-part-close****************************/
+/******************************use-part-open****************************/
+.useus
+{
+    background-color: rgb(207 248 250);
+    float: left;
+}
+.use
+{
+    width: 90% !important;
+    /* float: left; */
+    margin: 0px 16px;
+    padding: 0px 0px;
+}
+.use h1
+{
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0px 66px 0px;
+}
+.use ins
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: cadetblue;
+}
+.use p
+{
+    font-family: 'SamsungSharpSans',arial,sans-serif;
+    text-align: justify;
+    padding: 0px  0px;
+    margin: 20px 0px;
+    font-size: 16px;
+    line-height: 40px;
+    float: left;
+    /* width: 90% !important; */
+}
+.use img
+{
+    width: 100%;
+    height: 365px;
+    margin: 20px 7px;
+    
+}
+/******************************use-part-close****************************/
+
+/******************************contact-part-open****************************/
+.contact
+{
+    width: 90% !important;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    float: left;
+}
+.contact h3
+{
+    text-align: center;
+    margin: 50px 0px;
+    font-size: 50px;
+}
+.contact p
+{
+    font-family: 'SamsungSharpSans',arial,sans-serif;
+    padding: 0px  0px 0px 0px;
+    margin: 47px 7px;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+}
+.image01 
+{
+    width: 100%;
+    height: 30px;
+    margin: auto;
+    padding: 56.5px 103px;
+    display: block;
+}
+.contact img
+{
+    width: 21px;
+    height: 21px;
+    padding: 0px 0px;
+    margin: 11px 11px;
+}
+.contact input
+{
+    margin: 22px 0px 64px 100px;
+    padding: 0px 0px;
+    
+}
+.contact span
+{
+    background-color: rgb(4, 126, 126);
+    padding: 0px 0px;
+    border: 3px solid rgb(4, 126, 126);
+    color: white;
+}
+/******************************contact-part-close****************************/
+
+/******************************footer-part-open****************************/
+
+.footer01
+{
+    background-color: chocolate;
+    float: left;
+}
+.footer
+{
+    width: 90% !important;
+    float: left;
+    margin: 45px 21px;
+}
+.footer h4
+{
+    color: antiquewhite;
+}
+.footer p
+{
+    color: antiquewhite;
+}
+/******************************foooter-part-close****************************/
+
+}
+/******************************mobile-mediaquery-part-close****************************/
